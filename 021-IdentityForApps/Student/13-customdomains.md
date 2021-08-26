@@ -29,7 +29,7 @@ _List of relevant links and online articles that should give the attendees the k
 
 _Too comfortable? Eager to do more? Try these additional challenges!_
 
-- Ca you restrict access to your tenant to only use the custom domain?
+- Can you restrict access to your tenant to only use the custom domain?
 
 - Can you add a site down page to your tenant using Azure front Door?
 

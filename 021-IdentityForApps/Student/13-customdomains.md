@@ -3,27 +3,21 @@
 [< Previous Challenge](./12-monitor.md) - **[Home](../README.md)**
 
 ## Introduction
-Azure Active Directory sign-in and auditing logs can be routed to many different monitoring solutions, such as a Log Analytics Workspace. You can then use the power of Log Analytics to query data, create alerts, and produce workbooks and visualizations.
+Using a custom domain with your application provides a more seamless user experience. From the user's perspective, they remain in their domain during the sign-in process rather than redirecting to the Azure AD B2C default domain <tenant-name>.b2clogin.com.
 
 ![Azure AD B2C Cusomt domain](https://user-images.githubusercontent.com/5468241/130883810-8296cb24-2ab5-48d6-9e7a-96495ab18714.png)
 
 ## Description
 
-We've done a lot with Azure AD B2C and CMC Leadership is really thrilled with everything. They have one last ask -- is there a way we can monitor our B2C activity around logins, conditional access request, failed logins, etc.
-
-They are already Log Analytics users, so if there's a way to incorporate B2C monitoring into Log Analytics, that would be fantastic.
-
-Also, CMC would like to see some workbooks providing different views of the B2C activity - can we visualize certain events in our B2C tenant?
+CMC Leadership have raised a concern that they would prefer to see their domain name (cmc.com) rather than B2CLogin.com when they login to their applications.
 
 ## Success Criteria
 
-To successfully complete this challenge, enable Azure Monitor for your B2C tenant. Take a look at the Learning Resources section in order for some ideas on how to incorporate your B2C logs into a Log Analytics workspace.
+To successfully complete this challenge, enable Azure Front Door to provide a custom domain for your tenant. Take a look at the Learning Resources section in order for some ideas on how to create your custom domain.
 
 At the end of this challenge, you should be able to:
 
-- Export B2C logs into a Log Analytics workspace;
-- Create some queries and/or visualizations for events such as failed logins, coniditional access requests.
-- **BONUS**: Using the Learning Resources below, create a Workbook to collect different events. This is not required for successfully completing this challenge.
+- Login using a custom domain;
 
 ## Learning Resources
 

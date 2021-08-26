@@ -5,7 +5,8 @@
 ## Introduction
 Azure Active Directory sign-in and auditing logs can be routed to many different monitoring solutions, such as a Log Analytics Workspace. You can then use the power of Log Analytics to query data, create alerts, and produce workbooks and visualizations.
 
-![Azure AD B2C Cusomt domain](custom-domain-user-experience.png)
+![Azure AD B2C Cusomt domain](https://user-images.githubusercontent.com/5468241/130883810-8296cb24-2ab5-48d6-9e7a-96495ab18714.png)
+
 ## Description
 
 We've done a lot with Azure AD B2C and CMC Leadership is really thrilled with everything. They have one last ask -- is there a way we can monitor our B2C activity around logins, conditional access request, failed logins, etc.

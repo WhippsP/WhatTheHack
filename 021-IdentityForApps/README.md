@@ -77,6 +77,10 @@ Challenge 12: **[Hey, What's Going On In My B2C Tenant??](Student/12-monitor.md)
 
 - Monitor your B2C tenant by combining logs and app insights logs
 
+Challenge 13: **[Use my own domain name](./13-customdomains.md)**
+
+- Create a custom domain for your tenant.
+
 ## Challenge Flow
 
 This Identity Hack can be broken into two smaller hacks: one focusing just on User Flows and the other focusing on Custom Policies. If you want a hack focused on one of these tracts, this diagram illustrates the common challenges and the tract-specific challenges:

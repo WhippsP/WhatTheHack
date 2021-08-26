@@ -77,7 +77,7 @@ Challenge 12: **[Hey, What's Going On In My B2C Tenant??](Student/12-monitor.md)
 
 - Monitor your B2C tenant by combining logs and app insights logs
 
-Challenge 13: **[Use my own domain name](./13-customdomains.md)**
+Challenge 13: **[Use my own domain name](./Student/13-customdomains.md)**
 
 - Create a custom domain for your tenant.
 

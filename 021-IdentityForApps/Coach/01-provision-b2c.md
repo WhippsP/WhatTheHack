@@ -26,7 +26,7 @@ Provided your attendees do not have an existing B2C tenant, they can follow the 
 
 ## Hints
 
-~~ - It is not possible today to provision a B2C tenant via automation. ~~
+~~- It is not possible today to provision a B2C tenant via automation. ~~
     It is now [Link](https://docs.microsoft.com/en-us/rest/api/activedirectory/b2c-tenants/create)
 - Searching for "Azure AD" will not yield positive results.
-~~ - You must have a pre-existing resource group. The creation screens will not allow you to create one at the time of B2C tenant creation. ~~
+~~- You must have a pre-existing resource group. The creation screens will not allow you to create one at the time of B2C tenant creation. ~~
